@@ -1,0 +1,10 @@
+# Ignorar la carpeta configuracionID/
+configuracionID/
+
+# Ignorar todos los archivos .png en la carpeta evidencia_desarrollo/
+EvidenciasDelDesarrollo/*.png
+
+# Ignorar el archivo Manual.txt en la carpeta evidencia_desarrollo/
+EvidenciasDelDesarrollo/Manual.txt
+# Ignorar todos los archivos .png
+*.png
